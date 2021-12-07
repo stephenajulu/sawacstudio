@@ -8,6 +8,9 @@ sections:
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
+    title: >-
+      We are a digital studio focused on crafting tech solutions for startups,
+      brands, companies, and individuals.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
