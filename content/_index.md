@@ -35,7 +35,7 @@ sections:
       - title: IT Equipment Supply
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
+      - title: Web & Search Engine Optimization
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
