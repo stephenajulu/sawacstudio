@@ -22,17 +22,7 @@ sections:
     title: Services
     subtitle: What we do
     col_number: three
-    grid_items:
-      - title: Brand design
-        image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+    grid_items: []
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
