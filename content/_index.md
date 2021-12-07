@@ -38,7 +38,7 @@ sections:
       - title: Web & Search Engine Optimization
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
+      - title: Consultatio
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
