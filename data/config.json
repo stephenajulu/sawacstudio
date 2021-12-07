@@ -5,7 +5,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "Agency",
-        "logo": "images/default-monochrome.svg",
+        "logo": "images/default-monochrome.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
