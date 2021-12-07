@@ -5,7 +5,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "Agency",
-        "logo": "images/cover.png",
+        "logo": "images/rsz_default.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
