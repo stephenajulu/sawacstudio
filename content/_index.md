@@ -26,7 +26,7 @@ sections:
       - title: Web Design & Development
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
+      - title: Graphic Design
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
