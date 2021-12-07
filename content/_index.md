@@ -39,7 +39,6 @@ sections:
         image_alt: lorem-ipsum
         actions: []
       - title: Consultation
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
