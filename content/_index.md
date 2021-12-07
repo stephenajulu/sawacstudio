@@ -57,8 +57,8 @@ sections:
 seo:
   title: 'Julz Insight - Web, Design, Content & Marketing Studio'
   description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
+    We are a digital studio focused on crafting tech solutions for startups,
+    brands, companies, and individuals. Get in touch today.
   extra:
     - name: 'og:type'
       value: website
