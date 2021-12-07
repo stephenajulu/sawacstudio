@@ -6,8 +6,7 @@ sections:
     section_id: hero
     content: >
       We work closely with you, your team to deliver inspiring work, which
-      enables your organization to grow.\*\*[**Get In Touch
-      Now!**](/contact/)\*\*
+      enables your organization to grow. [**Get In Touch Now!**](/contact/)
     title: >-
       We are a digital studio focused on crafting tech solutions for startups,
       brands, companies, and individuals.
