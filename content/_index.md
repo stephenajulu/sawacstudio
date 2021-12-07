@@ -23,16 +23,6 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Business design
-        image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
       - title: Brand design
         image: images/service-2.svg
         content: |-
