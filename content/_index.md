@@ -32,7 +32,7 @@ sections:
       - title: Content Creation
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
+      - title: IT Equipment Supply
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
