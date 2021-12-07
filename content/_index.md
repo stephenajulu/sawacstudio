@@ -29,7 +29,7 @@ sections:
       - title: Graphic Design
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
+      - title: Content Creation
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
