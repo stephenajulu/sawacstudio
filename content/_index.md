@@ -64,7 +64,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: 'Julz Insight - Web, Design, Content & Marketing Studio'
       keyName: property
     - name: 'og:description'
       value: >-
