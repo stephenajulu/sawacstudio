@@ -36,7 +36,6 @@ sections:
         image_alt: lorem-ipsum
         actions: []
       - title: Web & Search Engine Optimization
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
