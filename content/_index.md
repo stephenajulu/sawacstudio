@@ -24,7 +24,6 @@ sections:
     col_number: three
     grid_items:
       - title: Web Design & Development
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
