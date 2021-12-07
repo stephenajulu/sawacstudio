@@ -23,7 +23,7 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Web Design & Development
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
