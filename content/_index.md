@@ -74,7 +74,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Award Winning Agency Based in San Francisco
+      value: 'Julz Insight - Web, Design, Content & Marketing Studio'
     - name: 'twitter:description'
       value: >-
         We are a brand and design practice. We work closely with you, your team
