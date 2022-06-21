@@ -15,17 +15,22 @@
                 "style": "link"
             },
             {
-                "label": "Work",
+                "label": "Portfolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
             {
-                "label": "Articles",
+                "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Inquire",
+                "url": "/contact/",
+                "style": "link"
+            },
+            {
+                "label": "Start A Project",
                 "url": "/contact/",
                 "style": "button"
             }
@@ -37,7 +42,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/sawacstudio",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
@@ -51,16 +56,9 @@
             },
             {
                 "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "url": "https://dribbble.com/sawacstudio",
                 "style": "icon",
                 "icon": "dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
                 "new_window": true
             }
         ]
