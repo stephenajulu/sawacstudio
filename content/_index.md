@@ -5,10 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     content: |
-      Make the shift from now to next. [**Get In Touch Now!**](/contact/)
+      [Book A Slot Now](/contact/)
     title: >-
-      We are a digital studio focused on crafting tech solutions for startups,
-      brands, companies, and individuals.
+      Sawac is a strategic design studio that blends contemporary, minimalistic and modern styles to create impactful brands and designs
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
@@ -23,16 +22,13 @@ sections:
     subtitle: What we do
     col_number: two
     grid_items:
-      - title: Web Design & Development
+      - title: Logo Design
         image_alt: lorem-ipsum
         actions: []
-      - title: Graphic Design
+      - title: Brand Identity Design
         image_alt: lorem-ipsum
         actions: []
       - title: Content Creation
-        image_alt: lorem-ipsum
-        actions: []
-      - title: IT Equipment Supply
         image_alt: lorem-ipsum
         actions: []
       - title: Web & Search Engine Optimization
@@ -45,7 +41,7 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >
-      Say hello at <julzinsight@gmail.com> or tell us more about your project by
+      Say hello at <info@sawacmedia.com> or tell us more about your project by
       getting started below. We are also looking for consultants.
     actions:
       - label: Let's start
@@ -55,29 +51,26 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: 'Julz Insight - Web, Design, Content & Marketing Studio'
+  title: 'Sawac Studio'
   description: >-
-    We are a digital studio focused on crafting tech solutions for startups,
-    brands, companies, and individuals. Get in touch today.
+    Sawac is a strategic design studio that blends contemporary, minimalistic and modern styles to create impactful brands and designs
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: 'Julz Insight - Web, Design, Content & Marketing Studio'
+      value: 'Sawac Studio'
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a digital studio focused on crafting tech solutions for startups,
-        brands, companies, and individuals. Get in touch today.
+        Sawac is a strategic design studio that blends contemporary, minimalistic and modern styles to create impactful brands and designs
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: 'Julz Insight - Web, Design, Content & Marketing Studio'
+      value: 'Sawac Studio'
     - name: 'twitter:description'
       value: >-
-        We are a digital studio focused on crafting tech solutions for startups,
-        brands, companies, and individuals. Get in touch today.
+        Sawac is a strategic design studio that blends contemporary, minimalistic and modern styles to create impactful brands and designs
 layout: advanced
 ---
