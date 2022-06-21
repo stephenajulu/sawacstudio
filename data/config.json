@@ -5,7 +5,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "Sawac Studio",
-        "text": "S A W A C",
+        "text": "Sawac",
         "logo": "images/log.png",
         "logo_alt": "Sawac Studio",
         "has_nav": true,
