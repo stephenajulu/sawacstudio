@@ -10,7 +10,7 @@ sections:
       Sawac is a strategic design studio that blends contemporary, minimalistic and modern styles to create impactful brands and designs
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: tiles
+    layout_style: masonic
     title: Recent Work
     subtitle: Explore case studies
     projects_number: 6
