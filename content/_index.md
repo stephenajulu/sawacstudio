@@ -25,16 +25,17 @@ sections:
       - title: Logo Design
         image_alt: lorem-ipsum
         actions: []
+        content: >
+          We offer logo-only design for brands who simply need a professional, custom logo to get started.
       - title: Brand Identity Design
         image_alt: lorem-ipsum
         actions: []
+        content: >
+          We thoughtfully elevate the look and feel of brands by working one-on-one with founders to discover, design, and display their unique edge.
       - title: Content Creation
         image_alt: lorem-ipsum
         actions: []
       - title: Web & Search Engine Optimization
-        image_alt: lorem-ipsum
-        actions: []
-      - title: Consultation
         image_alt: lorem-ipsum
         actions: []
   - type: cta_section
