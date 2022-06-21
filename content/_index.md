@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     content: |
-      [Book A Slot Now](/contact/)
+      
     title: >-
       Sawac is a strategic design studio that blends contemporary, minimalistic and modern styles to create impactful brands and designs
   - type: portfolio_section
