@@ -1,12 +1,12 @@
 {
-    "title": "Julz Insight - Web, Design, Content & Marketing Studio",
-    "color_scheme": "light",
+    "title": "Sawac Studio",
+    "color_scheme": "dark",
     "accent_color": "violet",
     "base_font": "fraunces",
     "header": {
-        "title": "Julz Insight - Web, Design, Content & Marketing Studio",
+        "title": "Sawac Studio",
         "logo": "images/default-monochrome.png",
-        "logo_alt": "Julz Insight - Web, Design, Content & Marketing Studio",
+        "logo_alt": "Sawac Studio",
         "has_nav": true,
         "nav_links": [
             {
@@ -20,7 +20,7 @@
                 "style": "link"
             },
             {
-                "label": "Insights",
+                "label": "Articles",
                 "url": "/blog/",
                 "style": "link"
             },
@@ -37,7 +37,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Julz Insight",
+        "content": "&copy; Sawac Studio",
         "has_social": true,
         "social_links": [
             {
@@ -70,5 +70,5 @@
             }
         ]
     },
-    "domain": "https://julzinsightcom4-f5f04.netlify.app"
+    "domain": "https://sawacstudio2.netlify.app"
 }
