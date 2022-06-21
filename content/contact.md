@@ -55,9 +55,11 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
-          - Design
-          - Digital
+          - Logo Design
+          - Brand Identity Design
+          - Web and Search Engine Optimization
+          - Digital Marketing
+          - Web Design
       - input_type: textarea
         name: message
         label: Message
