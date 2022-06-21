@@ -40,9 +40,9 @@
     </head>
     <body class="font-{{ .Site.Data.config.base_font }} palette-{{ .Site.Data.config.color_scheme }} accent-{{ .Site.Data.config.accent_color }}">
         
-        <div id="site-wrap" class="site">
+        <div id="site-wrap" class="site" style="text-align: center;">
           {{ partial "header.html" . }}
-          <main id="content" class="site-content">
+          <main id="content" class="site-content" style="text-align: center;">
             {{ block "content" . }}{{ end }}
           </main>
           {{ partial "footer.html" . }}
