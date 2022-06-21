@@ -2,7 +2,7 @@
   <nav class="navbar" aria-label="Main Navigation">
     {{ if .Site.Data.config.header.logo }}
     <div class="navbar__logo">
-      <a href="{{ "/" | relURL }}"><h3>{{ $.Site.Data.config.header.text }}</h3><!--<img src="{{ $.Site.Data.config.header.logo | relURL }}" alt="{{ $.Site.Data.config.header.logo_alt }}" width="130px"/>--></a>
+      <a href="{{ "/" | relURL }}"><h5>{{ $.Site.Data.config.header.text }}</h5><!--<img src="{{ $.Site.Data.config.header.logo | relURL }}" alt="{{ $.Site.Data.config.header.logo_alt }}" width="130px"/>--></a>
     </div>
     {{ else }}
     <div class="navbar__title">
