@@ -42,13 +42,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/sawacstudio",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/sawacstudio",
                 "style": "icon",
@@ -56,13 +49,13 @@
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/sawacstudio",
+                "label": "Pinterest",
+                "url": "https://pinterest.com/sawacstudio",
                 "style": "icon",
-                "icon": "dribbble",
+                "icon": "pinterest",
                 "new_window": true
             }
         ]
     },
-    "domain": "https://sawacstudio2.netlify.app"
+    "domain": "https://sawacmedia.com"
 }
