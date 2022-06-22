@@ -19,7 +19,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Services
-    subtitle: What we do
+    subtitle:
     col_number: two
     grid_items:
       - title: Logo Design
@@ -38,6 +38,8 @@ sections:
       - title: Web & Search Engine Optimization
         image_alt: lorem-ipsum
         actions: []
+        content: >
+          We offer informative well researched article writing, ghostwriting and copy writing
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
