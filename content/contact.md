@@ -21,12 +21,12 @@ sections:
       - input_type: text
         name: name
         label: Name
-        default_value: Your name
+        default_value: e.g. Stephen
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: e.g. stephen@mail.com
         is_required: true
       - input_type: select
         name: subject
@@ -36,12 +36,23 @@ sections:
           - Logo Design
           - Brand Identity Design
           - Web and Search Engine Optimization
-          - Digital Marketing
+          - Content Creation
           - Web Design
       - input_type: textarea
         name: message
         label: Message
-        default_value: Your message
+        default_value: Kindly tell us a bit about yourself, your project, timeline and budget
+      - input_type: select
+        name: medium
+        label: How did you hear about us?
+        default_value: Please select
+        options:
+          - Instagram
+          - Pinterest
+          - Medium
+          - Behance
+          - Word of mouth
+          - Other
       - input_type: checkbox
         name: consent
         label: >-
