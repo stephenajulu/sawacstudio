@@ -38,8 +38,6 @@ sections:
       - title: Web & Search Engine Optimization
         image_alt: lorem-ipsum
         actions: []
-        content: >
-          We offer informative well researched article writing, ghostwriting and copy writing
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
